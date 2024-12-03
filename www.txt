@@ -1,0 +1,11 @@
+
+google-chrome-stable
+
+sudo apt-get -y install imagemagick x11-apps
+
+https://www.virtono.com/community/tutorial-how-to/how-to-install-and-configure-mail-server-on-ubuntu/
+
+https://askubuntu.com/questions/1461513/help-with-installing-the-chrome-web-browser-22-04-2-lts
+
+
+
