@@ -1,0 +1,12 @@
+https://snapcraft.io/install/mdview/ubuntu
+
+sudo apt update
+sudo apt install snapd
+Either log out and back in again, or restart your system, to ensure snap’s paths are updated correctly.
+
+Install Markdown View
+To install Markdown View, simply use the following command:
+
+sudo snap install mdview
+
+
